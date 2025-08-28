@@ -2,7 +2,7 @@
 
 Thank you for taking interest in UrFriends
 
-[The latest deployment of the UrFriends beta](https://web--urfriends-beta.us-central1.hosted.app/)
+<a href="https://web--urfriends-beta.us-central1.hosted.app/" target="_blank">The latest deployment of the UrFriends beta</a>
 
 Here is an initial concept illustration:
 
