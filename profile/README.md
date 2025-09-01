@@ -12,7 +12,7 @@ The initial concept was inspired by things like:
 - My grandmother Faye, who had an immense social circle and maintained it with a cheap address book and a landline
 - The non-interaction that has come with many contemporary forms of social media
 
-<a href="https://web--urfriends-beta.us-central1.hosted.app/" target="_blank">The latest deployment of the UrFriends beta</a>
+<a href="https://public--urfriends-beta.us-central1.hosted.app/" target="_blank">The latest deployment of the UrFriends beta</a>
 
 Here is an initial concept illustration:
 
